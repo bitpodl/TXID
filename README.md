@@ -1,2 +1,2 @@
-# bitcoin-txid
+# TXID
 
