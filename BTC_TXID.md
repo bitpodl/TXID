@@ -107,6 +107,7 @@ For manual decoding, one could split the transaction into its various components
 }
 ```
 
-
 - **Compressed Transaction Data**
   - `2dd836ab19b31ba96f6e2acd60da8597521133bec28d817770bc20ef2622e1b1`
+
+- 
